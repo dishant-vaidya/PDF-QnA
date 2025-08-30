@@ -54,11 +54,11 @@ To run the app, install the required dependencies mentioned in requirements.txt,
 
 - While it uses advanced AI models to answer questions based on the content of a PDF, it may sometimes:
 
-* Give incomplete or incorrect answers
+1. Give incomplete or incorrect answers
 
-* Hallucinate information not present in the PDF
+2. Hallucinate information not present in the PDF
 
-* Struggle with very large or image-based PDFs (since OCR is not included)
+3. Struggle with very large or image-based PDFs (since OCR is not included)
 
 - This happens because:
 
