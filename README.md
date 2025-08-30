@@ -60,7 +60,7 @@ To run the app, install the required dependencies mentioned in requirements.txt,
 
 3. Struggle with very large or image-based PDFs (since OCR is not included)
 
-- This happens because:
+**This happens because:**
 
 * The underlying model (FLAN-T5) is trained to generate fluent text but does not always guarantee factual correctness.
 
