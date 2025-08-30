@@ -36,7 +36,7 @@ These tools together form a lightweight **RAG pipeline** (Retrieve → Read → 
 
 To run the app, install the required dependencies mentioned in requirements.txt, open the window's command prompt from the file's location, and use the command: 
 
-** "streamlit run PDF_Q&A.py" **
+**streamlit run PDF_Q&A.py**
 
 ---
 
